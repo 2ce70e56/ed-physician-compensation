@@ -1,0 +1,11 @@
+pandas>=2.0.0
+pyodbc>=4.0.35
+sqlalchemy>=2.0.0
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+selenium>=4.8.0
+python-dotenv>=1.0.0
+schedule>=1.2.0
+openpyxl>=3.1.0
+xlrd>=2.0.1
+logging>=0.4.9.6
